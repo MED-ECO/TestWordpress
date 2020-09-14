@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Medone_1 &#8211; MULTI-ECO</title>
+	<atom:link href="/https://med-eco.github.io/TestWordpress/author/medone_1/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://med-eco.github.io/TestWordpress</link>
+	<description>Un site utilisant WordPress</description>
+	<lastBuildDate>Mon, 14 Sep 2020 14:26:15 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>Bonjour tout le monde !</title>
+		<link>/https://med-eco.github.io/TestWordpress/2020/09/14/bonjour-tout-le-monde/</link>
+					<comments>/https://med-eco.github.io/TestWordpress/2020/09/14/bonjour-tout-le-monde/#comments</comments>
+		
+		<dc:creator><![CDATA[Medone_1]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2020 14:26:15 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">/https://med-eco.github.io/TestWordpress/?p=1</guid>
+
+					<description><![CDATA[Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !]]></description>
+										<content:encoded><![CDATA[
+<p>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://med-eco.github.io/TestWordpress/2020/09/14/bonjour-tout-le-monde/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
